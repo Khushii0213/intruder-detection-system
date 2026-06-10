@@ -1,1 +1,0 @@
-# intruder-detection-system
